@@ -1,0 +1,13 @@
+1. Express App Setup with typescript 
+    - initialize node project (npm init -y)
+    - install typescript and express packages
+        npm i --save-dev @types/node typescript @tsconfig/node16 ts-node-dev @types/express @types/body-parser
+        npm i express body-parser
+2. Linting and code formatting 
+    - install some dev dependencies 
+        npm i --save-dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser prettier husky
+    configure eslint on the app 
+        touch .eslintrc to create the eslint file at the root of the application 
+3. Error handling
+4. Database setup and sequelize with docker 
+5. Integration with Paystack API 
