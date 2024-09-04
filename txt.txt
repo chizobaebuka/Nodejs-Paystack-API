@@ -9,5 +9,6 @@
     configure eslint on the app 
         touch .eslintrc to create the eslint file at the root of the application 
 3. Error handling
+    - npm i http-status-codes
 4. Database setup and sequelize with docker 
 5. Integration with Paystack API 
